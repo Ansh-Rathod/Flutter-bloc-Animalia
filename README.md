@@ -54,18 +54,28 @@ A new Flutter project.
 
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
+### Clone this repository
+
 ```
-# Clone this repository
-$ git clone https://github.com/Appii00/Flutter-bloc-Animalia
+git clone https://github.com/Appii00/Flutter-bloc-Animalia
+```
 
-# Go into the repository
-$ cd Flutter-bloc-Animalia
+### Go into the repository
 
-# Install dependencies
-$ flutter packages get
+```
+cd Flutter-bloc-Animalia
+```
 
-# Run the app
-$ flutter run
+### Install dependencies
+
+```
+flutter packages get
+```
+
+### Run the app
+
+```
+flutter run
 ```
 
 **Download _.apk(7.2 MB)_ file from [Here](https://mega.nz/file/DlFS1bKD#dumEkbJI4iE2ttvWVfgZwUybYVlAp90WSgddPT8iuD4)**
