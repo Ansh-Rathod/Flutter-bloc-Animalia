@@ -11,7 +11,7 @@ A new Flutter project.
 - people know more about the world’s creatures they will better care for them.
 
 </br>
-  </br>
+</br>
 
 ## Packages used
 
