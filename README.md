@@ -39,15 +39,15 @@ A new Flutter project.
 
 <br>
 <p align="center">
-<img src="scrrenshots\Screenshot_20210718-072316.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072322.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072339.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072348.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072400.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072413.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072432.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-072555.jpg" width="30%">
-<img src="scrrenshots\Screenshot_20210718-163153.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072316.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072322.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072339.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072348.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072400.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072413.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072432.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-072555.jpg" width="30%">
+<img src="scrrenshots/Screenshot_20210718-163153.jpg" width="30%">
 </p>
 
 ## How to use
